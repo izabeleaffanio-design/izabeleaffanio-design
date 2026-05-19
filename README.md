@@ -24,5 +24,6 @@ apenas estudando
 <div align="center">
   <a href="https://skillicons.dev" target="_blank">
     <img src="https://skillicons.dev/icons?i=react,ts,nextjs,tailwind,nodejs,github&theme=dark" />
-  </a>
+
+<img src="URL_IMAGEM" width="450" alt="GIF" style="border-radius: 0px;"/>  </a>
 </div>
